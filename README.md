@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 브론즈 이인환입니다. 👋
 
 <!--
 **inhwan95/inhwan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
