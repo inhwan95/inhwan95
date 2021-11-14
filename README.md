@@ -1,4 +1,4 @@
-### 안녕하세요 실버 이인환입니다. 👋 골드 가고 싶어요
+### 안녕하세요 이인환입니다. 👋
 
 <!--
 **inhwan95/inhwan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
