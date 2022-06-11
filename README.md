@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsghks101)](https://solved.ac/dlsghks101)
-![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=200&section=header&text=InHwan%20Lee&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EADFF2&height=200&section=header&&fontColor=632a72&fontSize=70&animation=fadeIn&fontAlignY=30)
 
 
 <h3 align="center"> 👋Hi there, </h3>
